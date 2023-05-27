@@ -1,0 +1,5 @@
+{
+    "recivers_port": 5000,
+    "senders_port": 5001,
+    "package_size": 17000
+}
